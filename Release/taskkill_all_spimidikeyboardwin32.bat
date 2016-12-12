@@ -1,0 +1,1 @@
+taskkill /im spimidikeyboardwin32.exe
